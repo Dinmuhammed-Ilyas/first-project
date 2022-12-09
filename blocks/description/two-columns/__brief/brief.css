@@ -1,4 +1,7 @@
 .two-columns__brief {
    width: 175px;
    color: cornflowerblue;
+   line-height: 1.2;
+   font-size: 18px;
+   font-weight: normal;
 }
