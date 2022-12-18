@@ -48,3 +48,5 @@
 @import url(./blocks/techniques/cards/__image/cards__image.css);
 @import url(./blocks/techniques/cards/__title/cards__title.css);
 @import url(./blocks/techniques/cards/__description/cards__description.css);
+@import url(./blocks/video/__inframes/video__inframes.css);
+@import url(./blocks/video/__inframe/video__inframe.css);
