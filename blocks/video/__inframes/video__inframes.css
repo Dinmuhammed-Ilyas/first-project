@@ -1,0 +1,10 @@
+.video__inframes {
+   width: 1050px;
+   height: 316px;
+   margin: 0 auto;
+   display: flex;
+   flex-direction: row;
+   gap: 20px;
+   position: relative;
+   top: 50px;
+}
