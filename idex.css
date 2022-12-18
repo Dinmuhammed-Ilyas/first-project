@@ -63,3 +63,6 @@
 @import url(./blocks/khan/__book-container/khan__book-container.css);
 @import url(./blocks/khan/__book-pic/khan__book-pic.css);
 @import url(./blocks/khan/__buy-link/khan__buy-link.css);
+@import url(./blocks/resourses/resourses.css);
+@import url(./blocks/resourses/__logo-zone/resources__logo-zone.css);
+@import url(./blocks/resourses/__link/resources__link.css);
