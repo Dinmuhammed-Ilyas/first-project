@@ -1,4 +1,6 @@
 a:hover {
    opacity: .5;
    cursor: pointer;
+   transition: linear;
+   transition-duration: .16s;
 }
